@@ -15,7 +15,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=n-4m&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=n-4m&theme=dark)](https://git.io/streak-stats)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=zennomi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=n-4m&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
