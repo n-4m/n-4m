@@ -1,4 +1,6 @@
-# ![megumin-anime](https://github.com/user-attachments/assets/7e897b40-4fcb-4487-a654-a8ae16a4f8ba)About Me:
+# ![megumin-anime](https://github.com/user-attachments/assets/7e897b40-4fcb-4487-a654-a8ae16a4f8ba)
+
+<img src="https://github.com/user-attachments/assets/7e897b40-4fcb-4487-a654-a8ae16a4f8ba" alt="megumin-anime" width="300" height="200">About Me:
 
 ベトナム人
 
